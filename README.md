@@ -1,3 +1,3 @@
 # 2048
-/*Author: Prabhat Pandey*/
+/*Author: Shiv*/
 The game 2048 coded in java. 
